@@ -10,7 +10,8 @@
     "gitbook:build": "gitbook build"
   },
   "dependencies": {
-    "gitbook-cli": "latest"
+    "gitbook-cli": "latest",
+    "gitbook-plugin-advanced-emoji": "0.2.1"
   },
   "author": "",
   "license": "ISC"
